@@ -1,0 +1,16 @@
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\bin\Debug\net5.0\Digital.Series.exe
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\bin\Debug\net5.0\Digital.Series.deps.json
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\bin\Debug\net5.0\Digital.Series.runtimeconfig.json
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\bin\Debug\net5.0\Digital.Series.runtimeconfig.dev.json
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\bin\Debug\net5.0\Digital.Series.dll
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\bin\Debug\net5.0\ref\Digital.Series.dll
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\bin\Debug\net5.0\Digital.Series.pdb
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\obj\Debug\net5.0\Digital.Series.csprojAssemblyReference.cache
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\obj\Debug\net5.0\Digital.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\obj\Debug\net5.0\Digital.Series.AssemblyInfoInputs.cache
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\obj\Debug\net5.0\Digital.Series.AssemblyInfo.cs
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\obj\Debug\net5.0\Digital.Series.csproj.CoreCompileInputs.cache
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\obj\Debug\net5.0\Digital.Series.dll
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\obj\Debug\net5.0\ref\Digital.Series.dll
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\obj\Debug\net5.0\Digital.Series.pdb
+C:\Users\Edna\Desktop\Dio Desafio\Digital.Series\obj\Debug\net5.0\Digital.Series.genruntimeconfig.cache
